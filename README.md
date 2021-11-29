@@ -1,4 +1,5 @@
 # やぁ
 $\sqrt{2}$
 # 20211129
-wai
+waiwaiwai
+arigato yome
